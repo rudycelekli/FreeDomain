@@ -7,6 +7,8 @@ The primary references below define the protocols and registration concepts summ
 - [RFC 1034: Domain Names — Concepts and Facilities](https://www.rfc-editor.org/rfc/rfc1034.html)
 - [RFC 1035: Domain Names — Implementation and Specification](https://www.rfc-editor.org/rfc/rfc1035.html)
 - [RFC 8499: DNS Terminology](https://www.rfc-editor.org/rfc/rfc8499.html)
+- [RFC 4035: DNSSEC Protocol Modifications](https://www.rfc-editor.org/rfc/rfc4035.html)
+- [Cloudflare DNSSEC migration guidance](https://developers.cloudflare.com/dns/dnssec/)
 
 ## HTTP, TLS, and Certificates
 
